@@ -1,4 +1,4 @@
-# [Repository Title]
+# Incredibles
 
 *Delete the text in this section after reding it when using this template. Text between `[]` provides short descriptions of what is expected in each section, and should be deleted after after you write your own.*
 
@@ -31,7 +31,7 @@ This repository provides a template to make your software project more compliant
 
 ## Installation
 
-[Describe the steps  that users (not developers) should follow to install the code in each of the intended platforms (e.g. Window 10, MacOS, etc.).]
+[lopers) should follow to install the code in each of the intended platforms (e.g. Window 10, MacOS, etc.).]
 
 **Requirements** 
 - [List the software, OS, and/or technologies on which the code depends, and add hyperlinks to the sources whenever possible.]
