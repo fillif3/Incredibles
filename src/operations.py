@@ -19,3 +19,4 @@ def multiplication(a, b):
 
 def power2(a):
     return a**2
+
