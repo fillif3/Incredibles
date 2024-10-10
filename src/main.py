@@ -8,7 +8,11 @@ def perform_operation(num1, num2, operation):
         result = summation(num1, num2)
     elif operation == "subtract":
         result = subtraction(num1, num2)
-    else:
+    elif operation = "multiply":
+        result = num1 * num2
+    elif operation = "divide":
+        result = num1 / num2
+    else
         raise ValueError("Invalid operation. Please choose 'add' or 'subtract'.")
 
     return result
