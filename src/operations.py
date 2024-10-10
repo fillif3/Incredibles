@@ -16,3 +16,6 @@ def division(a, b):
 
 def multiplication(a, b):
     return a ** b # there is a bug here
+
+def power2(a):
+    return a**2
