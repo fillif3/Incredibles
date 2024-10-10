@@ -29,11 +29,9 @@
 
 A contribution can be one of the following cases:
 
-[List all ways you want others to contribute with the code. Below is a list of typical cases as examples:]
-    
-1. [you have a question;]
-2. [you think you may have found a bug (including unexpected behaviour);]
-3. [you want to make some changes to the code base (e.g. to fix a bug, to add a new feature, to update 4. documentation).]
+1. If you have a question or problem you should open an issue;
+2. You think you may have found a bug (including unexpected behaviour);
+3. You want to make some changes to the code base (e.g. to fix a bug, to add a new feature, to update 4. documentation).
 
 [The sections below outline the steps in each case.]
 
